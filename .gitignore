@@ -1,0 +1,14 @@
+# Never commit ROMs
+*.sfc
+*.smc
+*.swc
+*.fig
+*.bin
+*.zip
+*.7z
+
+# Python / scratch output
+__pycache__/
+*.pyc
+*.pkl
+bot.png

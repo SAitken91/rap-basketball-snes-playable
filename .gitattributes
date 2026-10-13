@@ -1,0 +1,5 @@
+*.ips binary
+*.png binary
+*.py text eol=lf
+*.asm text eol=lf
+*.md text eol=lf
